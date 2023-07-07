@@ -18,6 +18,6 @@ Use the requirements.txt file to install librarys
 ## Author
 
 - [GitHub](https://www.github.com/AmirMohammadShams)
-- [Kaggle](https://www.github.com/AmirMohammadShams)
+- [Kaggle](https://www.kaggle.com/gangcell)
 - [Website](https://thirdpersonlife.ir/)
 - [medium.com](https://medium.com/@AmirMohammadShams)
